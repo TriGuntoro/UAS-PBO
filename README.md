@@ -1,2 +1,4 @@
 # UAS-PBO
 UAS PBO TI KARYAWAN 2020
+Nama : Tri Guntoro
+Nim : 20104410008
